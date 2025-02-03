@@ -1,0 +1,3 @@
+# chess_game
+A chess game in progress...
+Developed in python using pygame
